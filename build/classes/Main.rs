@@ -1,5 +1,0 @@
-FullTimeEmployee
-Employee
-PartTimeEmployee
-Main
-PayrollSystem
